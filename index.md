@@ -17,6 +17,16 @@ COMING SOON - (No Tech Talks yet)
 
 [Replit](https://replit.com/@iskapoor/ishan-trimester-tree#com/ishan/Menu.java)
 
+### Code Snippets
+
+I struggled with HashMaps
+![image](https://user-images.githubusercontent.com/86839713/158223086-cc536940-9fa4-43b4-9115-6dceacee3b4f.png)
+
+I also enjoyed working through the try catch logic for the Menu
+![image](https://user-images.githubusercontent.com/86839713/158223200-dfedcd51-0fa0-48a8-b0a0-7e074e28d5cb.png)
+
+
+
 ### Support or Contact
 
 Contact our technical support officer, John Mortensen at jmortensen.1979@outlook.com
