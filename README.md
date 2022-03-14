@@ -1,15 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to Ishan's T3 Github Page!
 
-You can use the [editor on GitHub](https://github.com/iskapoor/ishan-trimester-tree/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+### Cod Cod Cod
+![Gadus_morhua_Cod-2b-Atlanterhavsparken-Norway](https://user-images.githubusercontent.com/86839713/158218256-044df80a-5e35-4ec9-ad4d-240a4e7ccbdd.jpg)
 
 # Header 1
 ## Header 2
