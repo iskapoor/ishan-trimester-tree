@@ -10,6 +10,13 @@ Paradigms are a strategy to be followed for writing software applications
 Imperative paradigms: Uses statements to change a program’s state. Imperative programs are built from procedures and a series of commands to perform a task.
 Object Oriented paradigms: Uses classes as blueprints to make objects out of. These class structures can be reused, and Java follows OOP.
 
+TT1 - Linked Lists P.2
+- enqueue means append to list
+- dequeue means remove the first elemet from a list
+- Queue has head and tail: head is the first element in the linked list and tail is the last element
+- After adding one element, the head remains the same, the tail changes
+- When removing an element, the tail remains the same, the head changes
+
 Future Plans for TT - I plan to review over the concepts alongside my scrum team 
 
 ### Test Prep Plans
