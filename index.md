@@ -17,6 +17,13 @@ TT1 - Linked Lists P.2
 - After adding one element, the head remains the same, the tail changes
 - When removing an element, the tail remains the same, the head changes
 
+TT2 
+- calculator class has toString that returns the mathematic result
+- Tokenize - string to math expression
+- Example: 200 + 100 to 200, +, 100
+- Reverse Polish Notation: used in older computers as input for math, we take the Tokenize list and convert it to this
+- We create operators and separators hashmaps and give each thing a precedence
+
 Future Plans for TT - I plan to review over the concepts alongside my scrum team 
 
 ### Test Prep Plans
