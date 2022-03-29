@@ -24,6 +24,10 @@ TT2
 - Reverse Polish Notation: used in older computers as input for math, we take the Tokenize list and convert it to this
 - We create operators and separators hashmaps and give each thing a precedence
 
+TT3
+- Sort algorithms will measure time in ns, gather 12 runs and take average of every data point but high and low
+- We need to test multiple runtimes so we can get a accurate value from enough data.
+
 Future Plans for TT - I plan to review over the concepts alongside my scrum team 
 
 ### Test Prep Plans
