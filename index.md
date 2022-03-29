@@ -70,6 +70,16 @@ Stack class definition below
 This is my tester and the reverse order test case from Queue to Stack is in it. 
 ![image](https://user-images.githubusercontent.com/86839713/159312610-117e30c6-95d4-4af3-917d-8ee58464a08a.png)
 
+### Reflection For Calculator
+
+My key points of reflection:
+- Tokenizing an expression was an interesting challenge; to take a string and identify parts then split it on the basis of those components
+![image](https://user-images.githubusercontent.com/86839713/160671414-deaa69f4-545d-4786-9823-4ffb5f8a8f25.png)
+![image](https://user-images.githubusercontent.com/86839713/160671516-737c5f26-0377-44fc-a282-6f830812becd.png)
+- I overcame that challege by identitfying spaces and seperating tokens from the start of the remaining string to the character before the space until the string if finished.
+- RPN was also an interesting logic point. It was fun to work through the logic and address the stack vs queue orderings.
+![image](https://user-images.githubusercontent.com/86839713/160671681-2ea77a6e-0c8b-4aec-9b95-b1ed59918696.png)
+
 ### Support or Contact
 
 Contact our technical support officer, John Mortensen at jmortensen.1979@outlook.com
