@@ -38,8 +38,10 @@ Future Plans for TT - I plan to review over the concepts alongside my scrum team
 
 ### Replit for Runtime!
 
-[Replit TT0](https://replit.com/@iskapoor/ishan-trimester-tree#com/ishan/Menu.java)
-[Replit TT1](https://replit.com/@iskapoor/t3-tt1-project#Main.java)
+[Current Replit](https://replit.com/@iskapoor/ishan-t3)
+[Replit Old1](https://replit.com/@iskapoor/ishan-trimester-tree#com/ishan/Menu.java)
+[Replit Old2](https://replit.com/@iskapoor/t3-tt1-project#Main.java)
+
 
 ### Code Snippets
 
