@@ -80,6 +80,18 @@ My key points of reflection:
 - RPN was also an interesting logic point. It was fun to work through the logic and address the stack vs queue orderings.
 ![image](https://user-images.githubusercontent.com/86839713/160671681-2ea77a6e-0c8b-4aec-9b95-b1ed59918696.png)
 
+### Notes on sorts
+I have implemented the sorts as can be seen in the images below:
+Bubble Mort:
+![image](https://user-images.githubusercontent.com/86839713/161593820-e51e1302-e587-4e1e-bebe-923246c4b0d6.png)
+Selection Mort:
+![image](https://user-images.githubusercontent.com/86839713/161593947-b986b0be-c053-4f47-9fee-ed24c89e2cf6.png)
+Insertion Mort:
+![image](https://user-images.githubusercontent.com/86839713/161593988-a93e81d1-f15d-4307-9631-c98ed1a083fe.png)
+Merge Mort:
+![image](https://user-images.githubusercontent.com/86839713/161594020-ee873c49-915b-4f33-83d0-85e290a3ee43.png)
+
+
 ### Support or Contact
 
 Contact our technical support officer, John Mortensen at jmortensen.1979@outlook.com
