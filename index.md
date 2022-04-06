@@ -1,6 +1,6 @@
 ## Welcome to Ishan's T3 Github Page!
 
-### Cod Cod Cod ([Review Ticket](https://github.com/iskapoor/ishan-trimester-tree/issues/1), [Replit](https://replit.com/@iskapoor/ishan-t3))
+### Cod Cod Cod ([Review Ticket](https://github.com/iskapoor/ishan-trimester-tree/issues/1), [Replit](https://replit.com/@iskapoor/ishan-trimester-tree-1))
 ![Gadus_morhua_Cod-2b-Atlanterhavsparken-Norway](https://user-images.githubusercontent.com/86839713/158218256-044df80a-5e35-4ec9-ad4d-240a4e7ccbdd.jpg)
 
 ### Tech Talk Notes
@@ -38,7 +38,7 @@ Future Plans for TT - I plan to review over the concepts alongside my scrum team
 
 ### Replit for Runtime!
 
-[Current Replit](https://replit.com/@iskapoor/ishan-t3)
+[Current Replit](https://replit.com/@iskapoor/ishan-trimester-tree-1)
 
 [Replit Old1](https://replit.com/@iskapoor/ishan-trimester-tree#com/ishan/Menu.java)
 
