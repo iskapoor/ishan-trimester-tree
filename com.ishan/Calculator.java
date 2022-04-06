@@ -3,6 +3,7 @@ package com.ishan;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
+import java.lang.*;
 
 import com.ishan.Stack;
 
@@ -30,6 +31,8 @@ public class Calculator {
         OPERATORS.put("%", 3);
         OPERATORS.put("+", 4);
         OPERATORS.put("-", 4);
+        OPERATORS.put("^", 2);
+        OPERATORS.put("sqrt", 2);
     }
 
     // Helper definition for supported operators
@@ -133,6 +136,8 @@ public class Calculator {
                 case "*":
                 case "/":
                 case "%":
+                case "^":
+                case "sqrt":
                     // While stack
                     // not empty AND stack top element
                     // and is an operator
@@ -174,30 +179,43 @@ public class Calculator {
             }
             else
             {
-                // Pop the two top entries
-                Double operand1 = Double.valueOf( (String)stack.pop() );
-                Double operand0 = Double.valueOf( (String)stack.pop() );
-
-                // Calculate intermediate results
                 Double result;
-                switch (token) {    // token is the operator
-                    case "+":
-                        result = operand0 + operand1;
-                        break;
-                    case "-":
-                        result = operand0 - operand1;
-                        break;
-                    case "*":
-                        result = operand0 * operand1;
-                        break;
-                    case "/":
-                        result = operand0 / operand1;
-                        break;
-                    case "%":
-                        result = operand0 % operand1;
-                        break;
-                    default:    //  replace this code with errors
-                        result = 0.0;
+                if(token.equals("sqrt")){
+                    Double num = Double.valueOf( (String)stack.pop());
+                    result = Math.sqrt(num);
+
+                }
+
+                else {
+                    // Pop the two top entries
+                    Double operand1 = Double.valueOf((String) stack.pop());
+                    Double operand0 = Double.valueOf((String) stack.pop());
+
+                    // Calculate intermediate results
+
+                    switch (token) {    // token is the operator
+                        case "+":
+                            result = operand0 + operand1;
+                            break;
+                        case "-":
+                            result = operand0 - operand1;
+                            break;
+                        case "*":
+                            result = operand0 * operand1;
+                            break;
+                        case "/":
+                            result = operand0 / operand1;
+                            break;
+                        case "%":
+                            result = operand0 % operand1;
+                            break;
+                        case "^":
+                            result = Math.pow(operand0, operand1);
+
+
+                        default:    //  replace this code with errors
+                            result = 0.0;
+                    }
                 }
 
                 // Push intermediate result back onto the stack

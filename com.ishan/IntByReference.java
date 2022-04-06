@@ -41,5 +41,11 @@ public class IntByReference {
         IntByReference.swapper(21, 16);
         IntByReference.swapper(16, 21);
         IntByReference.swapper(16, -1);
+        System.out.println("User Input");
+        System.out.println("Enter 1st number:");
+        int num1 = Integer.parseInt(scan.nextLine());
+        System.out.println("Enter 2nd number:");
+        int num2 = Integer.parseInt(scan.nextLine());
+        IntByReference.swapper(num1, num2);
     }
 }
