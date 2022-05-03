@@ -6,19 +6,19 @@ public class Stack<T> {
 
     public void push(T e) {
         this.stack.add(e);
-    }
+    } //add last
 
     public void pop() {
         this.stack.remove(this.stack.size()-1);
-    }
+    } //remove last
 
     public T peek() {
         return this.stack.get(this.stack.size()-1);
-    }
+    } //see last
 
     public int size() {
         return this.stack.size();
-    }
+    } //see size
 
     public String toString() {
         String output = "";

@@ -39,8 +39,10 @@ public class Menu {
             menu.put(3, new Menu("IntByReference", () -> IntByReference.main(null) ) );
             menu.put(4, new Menu("Queue", () -> Q.menu(null) ) );
             menu.put(5, new Menu("Sorts", () -> Sorts.main(null) ) );
+            menu.put(6, new Menu("In-Class FRQ", () -> FrqInClass.main(null) ) );
 
-          
+
+
             System.out.println("Menu:");
             for (Map.Entry<Integer, Menu> pair : menu.entrySet()) {
                 System.out.println(pair.getKey() + " ==> " + pair.getValue().getTitle());

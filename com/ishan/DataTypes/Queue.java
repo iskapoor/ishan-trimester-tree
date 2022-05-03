@@ -7,19 +7,19 @@ public class Queue<T> {
     
     public void enqueue(T e) {
         this.queue.add(e);
-    }
+    } //add
 
     public void dequeue() {
         this.queue.remove(0);
-    }
+    } //remove first
 
     public T peek() {
         return this.queue.get(0);
-    }
+    } //see first
 
     public int size() {
         return this.queue.size();
-    }
+    } //see size
 
     public String toString() {
         String output = "";
