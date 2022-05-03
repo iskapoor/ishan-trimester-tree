@@ -3,6 +3,13 @@
 ### Cod Cod Cod ([Review Ticket](https://github.com/iskapoor/ishan-trimester-tree/issues/1), [Replit](https://replit.com/@iskapoor/ishan-trimester-tree-1))
 ![Gadus_morhua_Cod-2b-Atlanterhavsparken-Norway](https://user-images.githubusercontent.com/86839713/158218256-044df80a-5e35-4ec9-ad4d-240a4e7ccbdd.jpg)
 
+### FRQ Pictures
+![20220503_110821](https://user-images.githubusercontent.com/86839713/166516022-f7902c27-150b-4e07-88c5-d483c7a6d2cf.jpg)
+![20220503_110825](https://user-images.githubusercontent.com/86839713/166516027-83877ba1-ff77-48eb-9e23-460b13148eac.jpg)
+![20220503_110830](https://user-images.githubusercontent.com/86839713/166516008-d9b99c01-7d5c-4b14-b955-b63ed78bf2b6.jpg)
+
+
+
 ### Tech Talk Notes
 
 TT0 - Paradigms:
