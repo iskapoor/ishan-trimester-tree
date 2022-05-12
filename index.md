@@ -37,6 +37,26 @@ TT3
 
 Future Plans for TT - I plan to review over the concepts alongside my scrum team 
 
+TT4? 5? week 8?
+- One to one relationship - husband and wife
+- One to many - husband to cheating wife
+- Many to many cheating husband to cheating wife
+- Persistence data is data that remains even after a programs stops
+- Temp data is the opposite
+- To get persistence data, we can use local storage (browser cache) which can be removed if cookies are deleted
+- Local storage is *local* and cannot be persistent beyond a single machine thus we use databases on the cloud
+- Databases have many tables; we can use an example of many-to-many as a people and roles tables. one person has many roles. one role has many people.
+- @ManyToMany(fetch = EAGER) will  fetch and load any associated x (where x is the collection defined on the next line) when a y is accessed (where y is the object with associated x)
+- Example:
+
+  @ManyToMany(fetch = EAGER)
+  
+    private Collection<Role> roles = new ArrayList<>();
+  
+  The fetch = EAGER will fetch and load the associated Role(s) when the Person is accessed.
+  
+- To add roles and people to the tables use SQLite3(from terminal) or CommandLineRunner(from code)
+
 ### Test Prep Plans
 
 - I will study alongside other members of our group to review key knowledge for the AP exam
